@@ -1,0 +1,18 @@
+{
+    "name": "leetcode-solutions",
+    "version": "1.0.0",
+    "description": "solve leetcode problems using javascript as much as possible",
+    "main": "main.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [
+    "leetcode"
+  ],
+    "author": "nevermoi <wglq@hotmail.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "jest": "^0.1.40",
+        "jest-cli": "^0.8.2"
+    }
+}
