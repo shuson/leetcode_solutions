@@ -1,4 +1,5 @@
 /**
+ * old
  * @param {number[]} nums
  * @return {boolean}
  */
