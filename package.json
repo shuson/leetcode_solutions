@@ -1,7 +1,7 @@
 {
     "name": "leetcode-solutions",
     "version": "1.0.0",
-    "description": "solve leetcode problems using javascript as much as possible",
+    "description": "solve leetcode problems using javascript as many as possible",
     "main": "main.js",
     "scripts": {
         "test": "jest"
