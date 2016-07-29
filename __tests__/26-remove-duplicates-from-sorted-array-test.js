@@ -1,6 +1,6 @@
 jest.dontMock('../solutions/26-remove-duplicates-from-sorted-array');
 
-describe('remove duplicates from sorted array', function () {
+describe('26. Remove duplicates from sorted array', function () {
     var func = require('../solutions/26-remove-duplicates-from-sorted-array');
 
     it('returns 0 when passing []', function () {

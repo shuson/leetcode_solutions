@@ -1,6 +1,6 @@
 jest.dontMock('../solutions/344-reverse-string');
 
-describe('Merge sorted arrays', function () {
+describe('344. Reverse String', function () {
     var reverse = require('../solutions/344-reverse-string');
 
     it('return "" when passing ""', function () {
