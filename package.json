@@ -4,7 +4,7 @@
     "description": "solve leetcode problems using javascript as many as possible",
     "main": "main.js",
     "scripts": {
-        "test": "jest"
+        "test": "jest --verbose"
     },
     "keywords": [
     "leetcode"
